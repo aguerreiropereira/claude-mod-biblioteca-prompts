@@ -1,0 +1,11 @@
+{
+  "name": "mods-biblioteca",
+  "owner": { "name": "Mods locais" },
+  "plugins": [
+    {
+      "name": "biblioteca-prompts",
+      "source": "./biblioteca-prompts",
+      "description": "Painel lateral com os seus prompts salvos. Clique em um prompt para inseri-lo na caixa de prompt."
+    }
+  ]
+}

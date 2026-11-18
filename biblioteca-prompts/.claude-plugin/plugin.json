@@ -1,0 +1,6 @@
+{
+  "name": "biblioteca-prompts",
+  "version": "0.1.1",
+  "description": "Painel lateral com os seus prompts salvos. Clique em um prompt para inseri-lo na caixa de prompt.",
+  "types": "./types/index.d.ts"
+}
